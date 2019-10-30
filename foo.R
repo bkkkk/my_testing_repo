@@ -4,5 +4,5 @@ y <- 2
 c <- y + x
 
 
-ggplot() %>%
-	geom
+ggplot(mpg) +
+	geom_point(aes(x = cyl, y = mpg))
