@@ -9,6 +9,7 @@ ggplot(mpg) +
     ggtitle("Mileage Distribution by cylinder")
 
 
+## Model mileage
 ggplot(mpg) +
     geom_point(aes(x = model, y = mpg)) +
     ggtitle("Model Mileage")
