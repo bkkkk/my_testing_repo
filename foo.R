@@ -13,3 +13,9 @@ ggplot(mpg) +
 ggplot(mpg) +
     geom_point(aes(x = model, y = mpg)) +
     ggtitle("Model Mileage")
+
+
+    'a;sldjf;laksjdf; lkajsd factor(asdfas;ldf;lkajsdas;lkajsd
+
+    asdflkjasdlkfjasdf
+    )'
