@@ -1,2 +1,2 @@
 # my_testing_repo
-to test stuff (jacob version)
+to test stuff and make them better
