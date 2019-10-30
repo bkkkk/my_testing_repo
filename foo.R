@@ -10,4 +10,5 @@ ggplot(mpg) +
 
 
 ggplot(mpg) +
-	geom_point(aes(x = cyl, y = mpg))
+    geom_point(aes(x = model, y = mpg)) +
+    ggtitle("Model Mileage")
